@@ -8,7 +8,7 @@ name: "flexible-crafter-core"
 author: "You"
 
 #the fully qualified main class of the mod
-main: "myMod.FlexibleCrafterCore"
+main: "com.github.Kamran7307.flexiblecrafter.FlexibleCrafterMod"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
